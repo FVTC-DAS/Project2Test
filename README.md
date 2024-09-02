@@ -6,8 +6,7 @@ Project 2
 This is an R Markdown format used for publishing markdown documents to
 GitHub. When you click the **Knit** button all R code chunks are run and
 a markdown file (.md) suitable for publishing to GitHub is automatically
-generated. You will want to customize this page with some information
-about yourself and some examples of code that you have written.
+generated.
 
 ## Including Code
 
